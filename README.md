@@ -1,5 +1,7 @@
 # Shopping-Cart-With-React-and-TypeScript
 
+![shopping-cart](https://i.postimg.cc/kGMCynTM/shopping-cart.png)
+
 <p>Project Setup:</p>
 <p>1. Create a react project with vite</p>
 
